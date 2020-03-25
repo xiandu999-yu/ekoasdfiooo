@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,hentaihaven.org
 DOMAIN-SUFFIX,qpic.cn
 
+#New
+DOMAIN-SUFFIX,amazon.co.jp
+
 # > AbemaTV
 // USER-AGENT,AbemaTV*
 DOMAIN-SUFFIX,abema.io
