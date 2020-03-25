@@ -166,7 +166,7 @@ Proxy Group:
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
-	  - 🔰 节点选择
+      - 🔰 节点选择
       - ✈ 手动选择
       - 🇺🇲 年费·V·美国DA·高速·205·NetflixHBO·1000M·空闲
       - 🇺🇲 年费·V·美国DA·高速·85·NetflixHBO·1000M·空闲
@@ -188,7 +188,7 @@ Proxy Group:
   - name: 🎬 国外媒体
     type: select
     proxies:
-	  - 🔰 节点选择
+      - 🔰 节点选择
       - ✈ 手动选择
       - 🇺🇲 年费·V·美国DA·高速·205·NetflixHBO·1000M·空闲
       - 🇺🇲 年费·V·美国DA·高速·85·NetflixHBO·1000M·空闲
@@ -255,7 +255,7 @@ Proxy Group:
   - name: ⚡ 网络测速
     type: select
     proxies:
-	  - 🔰 节点选择
+      - 🔰 节点选择
       - ✈ 手动选择
       - DIRECT
       - 🇺🇲 年费·V·美国DA·高速·205·NetflixHBO·1000M·空闲
