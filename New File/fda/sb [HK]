@@ -11,7 +11,6 @@ skip-proxy=127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, 
 
 [Proxy]
 DIRECT = direct
-🇭🇰 香港2 = custom, 103.41.106.46, 7043, aes-128-cfb, QazEdcTgb159, https://github.com/ConnersHua/SSEncrypt/raw/master/SSEncrypt.module
 🇭🇰 香港-永久 = custom, 34.92.24.46, 8080, aes-256-gcm, 123456789, https://github.com/ConnersHua/SSEncrypt/raw/master/SSEncrypt.module
 GCE_HK-tcp = vmess, 34.92.138.207, 10001, username=22788ef7-634d-4347-9fd4-250b7eac1c5f, tls=false
 GCE_HK-tls = vmess, 34.92.138.207, 20001, username=22788ef7-634d-4347-9fd4-250b7eac1c5f, tls=true
